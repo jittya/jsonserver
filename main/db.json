@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "username": "jitty",
+      "password": "1234567",
+      "firstname": "Jitty",
+      "lastname": "Andiyan",
+      "email": "jitty@ccc.com"
+    },
+    {
+      "username": "hridya",
+      "password": "1234567",
+      "firstname": "Hridya",
+      "lastname": "P Dinesh",
+      "email": "hridya@ccc.com"
+    },
+    {
+      "username": "jeevan",
+      "password": "1234567",
+      "firstname": "Jeevan",
+      "lastname": "Bose",
+      "email": "jeevan@ccc.com"
+    }
+  ],
+  "post": []
+}
